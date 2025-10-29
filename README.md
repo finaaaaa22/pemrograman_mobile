@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+NAMA : SAFINA ODE
+NPM : 07352211077 
+LINK VIDIO TUGAS UTS : https://youtube.com/live/Pdig0eFG80c 
